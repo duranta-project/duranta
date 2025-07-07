@@ -1,4 +1,4 @@
-This file represents the initial contacts for new project Duranta. Once a formal initial TSC is established this file will be updated accordingly.
+This file represents the initial contacts for new project Duranta. Once a formal initial TSC is established this file will be updated accordingly, as well as additional information to be added.
 
 Initial contacts for new project Duranta (alphabetical by last name):
 
