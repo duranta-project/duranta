@@ -5,6 +5,7 @@ Initial contacts for new project Duranta (alphabetical by last name):
 | Name | Contact |
 | --- | --- |
 | Jimmy Ahlberg | [jimmy.ahlberg@ericsson.com](mailto:jimmy.ahlberg@ericsson.com) |
+| Sagar Arora | [sagar.arora@openairinterface.org](mailto:sagar.arora@openairinterface.org) |
 | Irfan Ghauri | [irfan.ghauri@openairinterface.org](mailto:irfan.ghauri@openairinterface.org) |
 | Doug Knisely | [dknisely@qti.qualcomm.com](mailto:dknisely@qti.qualcomm.com) |
 | Camille Lerda | [camille.lerda@openairinterface.org](mailto:camille.lerda@openairinterface.org) |
